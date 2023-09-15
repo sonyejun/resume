@@ -15,4 +15,4 @@ A repo to store files from HTTP5114
 |Title|URL|Technology|
 |:---|:---|:---|
 |Hella Company|https://www.hellacompany.co.kr/|Node.js Express, Html, less, Javascript|
-|LeeHyun Green Wall|https://www.www.kavolife.com/|Html, css, Javascript|
+|LeeHyun Green Wall|https://www.kavolife.com/|Html, css, Javascript|
