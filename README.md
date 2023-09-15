@@ -1,5 +1,4 @@
-# Yejun, Son
-## Profile
+# Profile
 ### Name: Yejun, Son
 ### Email: ywson9027@gmail.com
 ### Skill
