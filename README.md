@@ -2,7 +2,7 @@
 ### Name: Yejun, Son
 ### Email: ywson9027@gmail.com
 ### Skill
-##### Html, Css, Javascript, Sass, Less, Node.js(Express), React, Git & Github
+##### Html, Css, Javascript, Jquery, Sass, Less, Node.js(Express), React, Git & Github
 ### About
 ##### I'm Yejun. I worked as a front-end Developer in korea for 3years.
 ![KakaoTalk_20220510_182341384](https://github.com/sonyejun/resume/assets/62229757/c6f45177-f626-4983-a491-4d12f93e69e9)
