@@ -1,6 +1,3 @@
-# resume
-A repo to store files from HTTP5114
-
 # MyProfile
 ### Name: Yejun, Son
 ### Email: ywson9027@gmail.com
