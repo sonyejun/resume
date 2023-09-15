@@ -5,7 +5,8 @@
 ##### Html, Css, Javascript, Jquery, Sass, Less, Node.js(Express), React, Git & Github
 ### About
 ##### I'm Yejun. I worked as a front-end Developer in korea for 3years.
-![image](https://github.com/sonyejun/resume/assets/62229757/c6f45177-f626-4983-a491-4d12f93e69e9)
+![ex_screenshot](./img/screenshot.png)
+![myimg](./_resume/myimg.jpg)
 # Education
 ##### - 2012 ~ 2017. Busan Institute of Science and Technology(In Korea)
 ##### - 2017 Mcomputer academy(In Korea)
